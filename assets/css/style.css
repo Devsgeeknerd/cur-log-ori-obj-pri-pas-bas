@@ -24,6 +24,9 @@ nav {
     float: right;
 }
 
+.menu li {
+    display: inline;
+}
 main {
     background-color: blueviolet;
     width: 100%;
