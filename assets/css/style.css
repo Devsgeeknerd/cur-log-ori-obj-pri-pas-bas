@@ -24,6 +24,7 @@ nav {
 main {
     background-color: blueviolet;
     width: 100%;
+    height: 600px;
 }
 
 footer {
