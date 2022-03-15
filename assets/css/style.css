@@ -15,11 +15,13 @@ header {
 
 nav {
     background-color: antiquewhite;
+
 }
 
 .menu {
     background-color: blue;
     height: 60px;
+    float: right;
 }
 
 main {
