@@ -3,10 +3,6 @@ body {
     color: #fff;
 }
 
-.header {
-    background-color: cadetblue;
-}
-
 .header__logo {
     background-color: aqua;
     width: 50%;
