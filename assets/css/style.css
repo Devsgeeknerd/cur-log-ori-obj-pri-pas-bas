@@ -32,10 +32,12 @@ body {
     display: inline;
     float: right;
 }
+
 .nav__link {
     line-height: 30px;
-    
+
 }
+
 .main {
     background-color: blueviolet;
     width: 100%;
