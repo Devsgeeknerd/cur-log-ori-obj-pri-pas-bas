@@ -27,7 +27,7 @@ body {
     float: right;
 }
 
-.menu li {
+.nav__item {
     display: inline;
 }
 
