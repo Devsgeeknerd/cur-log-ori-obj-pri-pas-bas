@@ -32,7 +32,9 @@ body {
     display: inline;
     float: right;
 }
-
+.nav__link {
+    height: 60px;
+}
 .main {
     background-color: blueviolet;
     width: 100%;
