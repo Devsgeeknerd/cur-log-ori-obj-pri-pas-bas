@@ -33,7 +33,8 @@ body {
     float: right;
 }
 .nav__link {
-    height: 60px;
+    line-height: 30px;
+    
 }
 .main {
     background-color: blueviolet;
