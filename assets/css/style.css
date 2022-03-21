@@ -29,6 +29,8 @@ body {
 
 .nav__item {
     display: inline;
+    margin: 9px;
+    float: right;
 }
 
 .main {
