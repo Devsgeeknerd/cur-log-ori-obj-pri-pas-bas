@@ -7,7 +7,7 @@ body {
     background-color: cadetblue;
 }
 
-.logo {
+.header__logo {
     background-color: aqua;
     width: 50%;
     height: 60px;
