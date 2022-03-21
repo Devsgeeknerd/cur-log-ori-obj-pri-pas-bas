@@ -37,7 +37,7 @@ body {
     height: 600px;
 }
 
-footer {
+.footer {
     background-color: brown;
     width: 100%;
     height: 36px;
