@@ -4,7 +4,7 @@ body {
 }
 
 .header__logo {
-    background-color: aqua;
+    /* background-color: aqua; */
     width: 50%;
     height: 60px;
     font-size: 48px;
