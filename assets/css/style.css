@@ -16,7 +16,7 @@ body {
 }
 
 .nav__menu {
-    background-color: blue;
+    /* background-color: blue; */
     width: 50%;
     height: 60px;
     float: right;
