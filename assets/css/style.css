@@ -3,35 +3,22 @@ body {
     color: #fff;
 }
 
+.header__area {
+    background-color: #333;
+    height: 60px;
+}
+
+.header__top {
+    width: 100%;
+    max-width: 1040px;
+    height: 60px;
+    margin: auto;
+}
+
 .header__logo {
-    /* background-color: aqua; */
     width: 50%;
     height: 60px;
-    font-size: 48px;
     float: left;
-}
-
-.nav {
-    background-color: antiquewhite;
-}
-
-.nav__menu {
-    /* background-color: blue; */
-    width: 50%;
-    height: 60px;
-    float: right;
-}
-
-.nav__item {
-    height: 60px;
-    margin: 9px;
-    display: inline;
-    float: right;
-}
-
-.nav__link {
-    line-height: 30px;
-
 }
 
 .main {
