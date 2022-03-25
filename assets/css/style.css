@@ -1,6 +1,9 @@
 body {
     background-color: #000;
     color: #fff;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
 }
 
 .header__area {
@@ -21,6 +24,20 @@ body {
     float: left;
 }
 
+.nav__area {
+    width: 50%;
+    height: 60px;
+    float: right;
+    text-align: right;
+}
+
+.nav__menu {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+
+.nav__item{}
 .main {
     /* background-color: blueviolet; */
     width: 100%;
