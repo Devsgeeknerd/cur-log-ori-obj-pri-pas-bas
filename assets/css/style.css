@@ -46,7 +46,10 @@ body {
 
 }
 
-.nav__link{}
+.nav__link{
+    color: #fff;
+    text-decoration: none;
+}
 
 .main {
     /* background-color: blueviolet; */
