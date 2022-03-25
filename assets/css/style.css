@@ -37,7 +37,17 @@ body {
     list-style: none;
 }
 
-.nav__item{}
+.nav__item{
+    height: 60px;
+    line-height: 60px;
+    margin-left: 6px;
+    margin-right: 6px;
+    float: right;
+
+}
+
+.nav__link{}
+
 .main {
     /* background-color: blueviolet; */
     width: 100%;
