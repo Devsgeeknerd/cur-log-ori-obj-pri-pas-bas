@@ -1,64 +1,53 @@
-<!-- TITLE -->
-# Website — Em Construção!!!
+<!-- Título -->
+# Lógica Orientada a Objetos — Primeiro Passos
 
-<!-- TABLE OF CONTENTS -->
-## TABELA DE CONTEÚDO
+***Conteúdo do Curso:***
 
-<!-- * [Vista por cima](#vista-por-cima) -->
-<!--  * [Foto da tela](#foto-da-tela) -->
-<!--  * [Links](#links) -->
-<!-- * [Meu processo](#meu-processo) -->
-<!--  * [Contruido com](#construido-com) -->
-<!--  * [O que aprendi](#o-que-aprendi) -->
-<!--  * [Desenvolvimento contínuo](#desenvolvimento-contínuo) -->
-<!--  * [Recusos úteis](#recursos-úteis) -->
-<!-- * [Autor](#autor) -->
-<!-- * [Agradecimentos](#agradecimentos) -->
-<!-- * [Informações](#informações) -->
+* [ ] [Conceitos Iniciais.](https://github.com/Devsgeeknerd/mod-con-ini-log-ori-obj-pri-pass-bas) &#128679;
+* [ ] [Classes e Objetos.](https://github.com/Devsgeeknerd/mod-cla-obj-log-ori-obj-pri-pass-bas) &#128679;
+* [ ] [Encapsulamento.](https://github.com/Devsgeeknerd/mod-enc-log-ori-obj-pri-pass-bas) &#128679;
+* [ ] [Herança.](https://github.com/Devsgeeknerd/mod-her-log-ori-obj-pri-pass-bas) &#128679;
 
-<!-- OVERVIEW -->
-<!-- ## VISTA POR CIMA -->
+A maioria das linguagens modernas são fundamentadas em um ideal (também chamado paradigma) de codificação que possibilita a escrita de um código mais "humano", de manutenção mais fácil e que também possibilite um alto nível de reaproveitamento de código, o que certamente nos dá maior velocidade no processo de desenvolvimento.
 
-<!-- SCREENSHOT -->
-<!-- ### FOTO DA TELA -->
+Esse paradigma é conhecido como Paradigma Orientado a Objetos ou simplesmente Orientação a Objetos.
 
-<!-- LINKS -->
-<!-- ### LINKS -->
+O grande ponto é que desenvolver de maneira orientada a objetos exige um certo estudo, tendo em vista que a nossa maneira de organizar nosso algoritmo deve ser modificada para ficar conforme o paradigma orientado a objetos.
 
-<!-- MY PROCESS -->
-<!-- ## MEU PROCESSO -->
+Além disso, a orientação a objetos emprega uma série de conceitos que podem soar até mesmo abstratos demais.
 
-<!-- BUILT WITH -->
-<!-- ### CONSTRUIDO COM -->
+Porém, quando compreendemos estes conceitos de maneira efetiva, nos tornamos capazes de produzir código com mais qualidade e mais legibilidade em menos tempo.
 
-<!-- WHAT I LEARNED -->
-<!-- ### O QUE APRENDI -->
+Por isso, esclarecer estes conceitos do paradigma orientado a objetos é o objetivo deste curso.
 
-<!-- CONTINUED DEVELOPMENT -->
-<!-- ### DESENVOLVIMENTO CONTÍNUO -->
+## Conhecimentos adquiridos
 
-<!-- USEFUL RESOURCES -->
-<!-- ### RECURSOS ÚTEIS -->
+Neste curso iremos aprender os conceitos básicos da programação orientada a objetos, conceitos esses que poderão ser aplicados em qualquer linguagem que tenha suporte para esse paradigma.
 
-<!-- AUTHOR -->
-<!-- ## AUTOR -->
+Você vai aprender a escrever suas primeiras classes e resolver problemas com essa nova maneira de programar.
 
-<!-- ACKNOWLEDGMENTS -->
-<!-- ## AGRADECIMENTOS -->
+Também serão passados exercícios para que você possa fixar, praticar e aplicar o conteúdo aprendido durante o curso.
 
-<!-- INFORMATION -->
-## INFORMAÇÕES
+### Dentre várias outras coisas, você será capaz de:
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fweb-site&label=Visitantes&labelColor=%23f9e64f&countColor=%23008000&style=plastic "Total de Visitas")
+* Compreender as vantagens e decorrências da utilização do paradigma orientado a objetos;
+* Compreender conceitos básicos como classe, objetos, atributos e métodos;
+* Entender conceitos importantes, como o encapsulamento;
+* Aplicar o conceito de herança em seus projetos.
+
+<!-- Informações -->
+## &#8505; Informações
+
+![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fcur-log-ori-obj-pri-pas-bas&label=Visitantes&labelColor=%23700070&labelStyle=none&countColor=%23000fff&style=plastic&color=%23ffffff "Total de Visitantes")
 &nbsp;
-![followrs](https://img.shields.io/github/followers/Devsgeeknerd?style=plastic&label=SEGUIDORES&labelColor=f9e64f "Total de Seguidores")
+![Followers](https://img.shields.io/github/followers/Devsgeeknerd?style=p&label=Seguidores&labelColor=800080&color=000fff "Total de Seguidores")
 &nbsp;
-![watchers](https://img.shields.io/github/watchers/Devsgeeknerd/web-site?style=plastic&label=OBSERVADORES&labelColor=f9e64f "Total de Observadores")
+![Watchers](https://img.shields.io/github/watchers/Devsgeeknerd/cur-log-ori-obj-pri-pas-bas?style=p&label=Observadores&labelColor=800080&color=000fff "Total de Observadores")
 &nbsp;
-![stars](https://img.shields.io/github/stars/Devsgeeknerd/web-site?style=plastic&label=ESTRELAS&labelColor=f9e64f "Total de Estrelas Recebidas")
+![Stars](https://img.shields.io/github/stars/Devsgeeknerd/cur-log-ori-obj-pri-pas-bas?style=p&label=Estrelas&labelColor=800080&color=000fff "Total de Estrelas")
 &nbsp;
-![forks](https://img.shields.io/github/forks/Devsgeeknerd/web-site?style=plastic&label=BIFURCAÇÕES&labelColor=f9e64f "Total de Bifurcações")
+![Forks](https://img.shields.io/github/forks/Devsgeeknerd/cur-log-ori-obj-pri-pas-bas?style=p&label=Bifurcações&labelColor=800080&color=000fff "Total de Bifurcações")
 &nbsp;
-![repo size](https://img.shields.io/github/repo-size/Devsgeeknerd/web-site?style=plastic&label=TAMANHO&labelColor=f9e64f "Tamanho do Repositório")
+![Repo Size](https://img.shields.io/github/repo-size/Devsgeeknerd/cur-log-ori-obj-pri-pas-bas?style=p&label=Tamanho&labelColor=800080&color=000fff "Tamanho do Repositório")
 &nbsp;
-![license](https://img.shields.io/github/license/Devsgeeknerd/web-site?style=plastic&label=LICENÇA&labelColor=f9e64f "Licença do Repositório")
+![License](https://img.shields.io/github/license/Devsgeeknerd/cur-log-ori-obj-pri-pas-bas?style=p&label=Licença&labelColor=800080&color=000fff "Licença do Repositório")
